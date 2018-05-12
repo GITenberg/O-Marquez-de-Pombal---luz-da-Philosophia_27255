@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '32573'
     url: http://www.gutenberg.org/2009/agents/32573
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/27255#O-Marquez-de-Pombal---luz-da-Philosophia
 gutenberg_issued: '2008-11-14'
 gutenberg_type: Text
 identifiers:
